@@ -1,9 +1,11 @@
 # 💫 Hi 👋, I'm Bhooshan A
-**Aspiring Software Developer || Full-Stack Developer || Data Enthusiast**
+**MCA Graduate | Java, Python & SQL | Full Stack Development & Data-Driven Solutions | React, Node.js, MongoDB, Power BI**
 
-📍 Kasaragod, Kerala, India  
-📧 bhooshan0114@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhooshan-a-b718b3302/) | [GitHub](https://github.com/bhooshan-0101)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhooshan-a-b718b3302/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/bhooshan-0101)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhooshan0114@gmail.com)
+
+
 
 
 <!-- Snake Game Repo View -->
@@ -69,6 +71,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhooshan-a-b718b3302/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/bhooshan-0101)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhooshan0114@gmail.com)
 
 ---
 
